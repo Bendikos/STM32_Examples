@@ -18,4 +18,4 @@ KEY3-->PA3
 KEY4-->PA4  
 KEY5-->PA5  
   
-![2](https://github.com/19e2k67/STM32_AS608_OLED/assets/102461738/27ba0d72-c728-40a3-9a2c-6d4bd2b86d3e)
+![image](xxx.png)
