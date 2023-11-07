@@ -18,4 +18,4 @@ KEY3-->PA3
 KEY4-->PA4  
 KEY5-->PA5  
   
-![image](xxx.png)
+![image](https://github.com/19e2k67/STM32_examples/blob/main/STM32_AS608_OLED_fingerprint/picture/2.jpg)
