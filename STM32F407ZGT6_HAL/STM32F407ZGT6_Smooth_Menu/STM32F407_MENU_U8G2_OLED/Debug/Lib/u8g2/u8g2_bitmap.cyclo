@@ -1,0 +1,7 @@
+../Lib/u8g2/u8g2_bitmap.c:38:6:u8g2_SetBitmapMode	1
+../Lib/u8g2/u8g2_bitmap.c:50:6:u8g2_DrawHorizontalBitmap	6
+../Lib/u8g2/u8g2_bitmap.c:83:6:u8g2_DrawBitmap	3
+../Lib/u8g2/u8g2_bitmap.c:101:6:u8g2_DrawHXBM	6
+../Lib/u8g2/u8g2_bitmap.c:131:6:u8g2_DrawXBM	3
+../Lib/u8g2/u8g2_bitmap.c:150:6:u8g2_DrawHXBMP	6
+../Lib/u8g2/u8g2_bitmap.c:181:6:u8g2_DrawXBMP	3

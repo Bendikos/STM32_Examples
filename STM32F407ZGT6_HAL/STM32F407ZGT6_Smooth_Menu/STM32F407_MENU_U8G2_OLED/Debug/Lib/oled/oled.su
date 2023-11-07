@@ -1,0 +1,5 @@
+../Lib/oled/oled.c:3:7:memcpy_byte	32	static
+../Lib/oled/oled.c:23:9:u8x8_byte_hw_i2c	32	static
+../Lib/oled/oled.c:58:6:delay_us	24	static
+../Lib/oled/oled.c:65:9:u8x8_gpio_and_delay	32	static,ignoring_inline_asm
+../Lib/oled/oled.c:105:6:u8g2Init	16	static

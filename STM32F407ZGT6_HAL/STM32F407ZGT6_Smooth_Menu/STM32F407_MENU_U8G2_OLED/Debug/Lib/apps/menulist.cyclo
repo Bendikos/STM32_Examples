@@ -1,0 +1,12 @@
+../Lib/apps/base.h:46:13:_draw_rotated_rect	1
+C:/Users/Administrator/Desktop/Smooth_Menu/STM32F407ZGT6_HAL/STM32F407_MENU_U8G2_OLED/Lib/utils.h:11:13:HAL_Delay_us	1
+C:/Users/Administrator/Desktop/Smooth_Menu/STM32F407ZGT6_HAL/STM32F407_MENU_U8G2_OLED/Lib/utils.h:39:13:print_binary	3
+../Lib/apps/menulist.c:7:12:menulist_initialize	5
+../Lib/apps/menulist.c:59:6:menulist_callback_default_handler	5
+../Lib/apps/menulist.c:72:6:menulist_callback_handler_switch_prev	3
+../Lib/apps/menulist.c:96:6:menulist_callback_handler_switch_next	3
+../Lib/apps/menulist.c:120:6:menulist_callback_painter_update_easing	5
+../Lib/apps/menulist.c:134:6:menulist_callback_painter_draw_items	3
+../Lib/apps/menulist.c:145:6:menulist_callback_painter_draw_scroll	3
+../Lib/apps/menulist.c:164:6:menulist_callback_painter_draw_item_mask	2
+../Lib/apps/menulist.c:171:6:menulist_callback_default_painter	1

@@ -1,0 +1,5 @@
+../Lib/oled/oled.c:3:7:memcpy_byte	8
+../Lib/oled/oled.c:23:9:u8x8_byte_hw_i2c	6
+../Lib/oled/oled.c:58:6:delay_us	2
+../Lib/oled/oled.c:65:9:u8x8_gpio_and_delay	11
+../Lib/oled/oled.c:105:6:u8g2Init	1
