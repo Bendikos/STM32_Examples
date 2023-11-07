@@ -1,0 +1,14 @@
+../Core/Src/norflash.c:37:6:norflash_init	40	static
+../Core/Src/norflash.c:80:13:norflash_wait_busy	8	static
+../Core/Src/norflash.c:91:6:norflash_write_enable	8	static
+../Core/Src/norflash.c:104:13:norflash_send_address	16	static
+../Core/Src/norflash.c:137:9:norflash_read_sr	24	static
+../Core/Src/norflash.c:175:6:norflash_write_sr	24	static
+../Core/Src/norflash.c:210:10:norflash_read_id	16	static
+../Core/Src/norflash.c:234:6:norflash_read	40	static
+../Core/Src/norflash.c:258:13:norflash_write_page	32	static
+../Core/Src/norflash.c:288:13:norflash_write_nocheck	32	static
+../Core/Src/norflash.c:340:6:norflash_write	40	static
+../Core/Src/norflash.c:418:6:norflash_erase_chip	8	static
+../Core/Src/norflash.c:436:6:norflash_erase_sector	16	static
+../Core/Src/norflash.c:452:9:spi1_read_write_byte	32	static

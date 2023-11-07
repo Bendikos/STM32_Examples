@@ -1,0 +1,15 @@
+../Core/Src/W25Q128.c:10:6:W25Q128_Enable	8	static
+../Core/Src/W25Q128.c:17:6:W25Q128_Disable	8	static
+../Core/Src/W25Q128.c:24:6:spi2_Transmit_one_byte	16	static
+../Core/Src/W25Q128.c:31:9:spi2_Receive_one_byte	16	static
+../Core/Src/W25Q128.c:40:6:W25Q128_Write_Enable	8	static
+../Core/Src/W25Q128.c:49:6:W25Q128_Write_Disable	8	static
+../Core/Src/W25Q128.c:58:9:W25Q128_ReadSR	16	static
+../Core/Src/W25Q128.c:70:6:W25Q128_Wait_Busy	8	static
+../Core/Src/W25Q128.c:77:6:Erase_one_Sector	16	static
+../Core/Src/W25Q128.c:93:6:Erase_Write_data_Sector	24	static
+../Core/Src/W25Q128.c:113:6:Erase_W25Q128_Chip	8	static
+../Core/Src/W25Q128.c:125:6:Read_W25Q128_data	40	static
+../Core/Src/W25Q128.c:142:6:Write_Word	32	static
+../Core/Src/W25Q128.c:160:6:Write_Page	32	static
+../Core/Src/W25Q128.c:189:6:read_W25Q128_ID	16	static

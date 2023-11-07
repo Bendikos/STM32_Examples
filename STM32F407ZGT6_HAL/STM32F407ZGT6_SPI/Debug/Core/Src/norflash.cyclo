@@ -1,0 +1,14 @@
+../Core/Src/norflash.c:37:6:norflash_init	3
+../Core/Src/norflash.c:80:13:norflash_wait_busy	2
+../Core/Src/norflash.c:91:6:norflash_write_enable	1
+../Core/Src/norflash.c:104:13:norflash_send_address	2
+../Core/Src/norflash.c:137:9:norflash_read_sr	5
+../Core/Src/norflash.c:175:6:norflash_write_sr	5
+../Core/Src/norflash.c:210:10:norflash_read_id	1
+../Core/Src/norflash.c:234:6:norflash_read	2
+../Core/Src/norflash.c:258:13:norflash_write_page	2
+../Core/Src/norflash.c:288:13:norflash_write_nocheck	4
+../Core/Src/norflash.c:340:6:norflash_write	8
+../Core/Src/norflash.c:418:6:norflash_erase_chip	1
+../Core/Src/norflash.c:436:6:norflash_erase_sector	1
+../Core/Src/norflash.c:452:9:spi1_read_write_byte	1

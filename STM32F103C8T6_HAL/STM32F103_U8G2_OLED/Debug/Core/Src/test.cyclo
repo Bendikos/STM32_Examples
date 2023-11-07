@@ -1,0 +1,9 @@
+../Core/Src/test.c:13:6:testDrawProcess	2
+../Core/Src/test.c:39:6:testShowFont	1
+../Core/Src/test.c:60:6:testDrawFrame	1
+../Core/Src/test.c:77:6:testDrawRBox	1
+../Core/Src/test.c:95:6:testDrawCircle	1
+../Core/Src/test.c:121:6:testDrawFilledEllipse	1
+../Core/Src/test.c:144:6:testDrawMulti	11
+../Core/Src/test.c:223:6:testDrawXBM	1
+../Core/Src/test.c:238:6:u8g2DrawTest	1

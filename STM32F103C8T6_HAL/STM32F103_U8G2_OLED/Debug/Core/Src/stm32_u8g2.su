@@ -1,0 +1,5 @@
+../Core/Src/stm32_u8g2.c:6:9:u8x8_byte_hw_i2c	40	static
+../Core/Src/stm32_u8g2.c:60:9:u8x8_gpio_and_delay	32	static,ignoring_inline_asm
+../Core/Src/stm32_u8g2.c:101:6:u8g2Init	16	static
+../Core/Src/stm32_u8g2.c:110:6:draw	16	static
+../Core/Src/stm32_u8g2.c:141:6:testDrawPixelToFillScreen	32	static

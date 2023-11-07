@@ -1,0 +1,9 @@
+../Lib/apps/base.h:46:13:_draw_rotated_rect	1
+C:/Users/Administrator/Documents/STM32CubeIDE/workspace_1.13.2/STM32F407_MENU_U8G2_OLED/Lib/utils.h:11:13:HAL_Delay_us	1
+C:/Users/Administrator/Documents/STM32CubeIDE/workspace_1.13.2/STM32F407_MENU_U8G2_OLED/Lib/utils.h:39:13:print_binary	3
+../Lib/apps/adcchart.c:3:13:adcchart_initialize	3
+../Lib/apps/adcchart.c:22:6:adcchart_callback_default_handler	1
+../Lib/apps/adcchart.c:35:6:adcchart_repaint_border	1
+../Lib/apps/adcchart.c:40:6:adcchart_drawborder	2
+../Lib/apps/adcchart.c:73:7:adcchart_get_new_value	1
+../Lib/apps/adcchart.c:79:6:adcchart_callback_default_painter	2

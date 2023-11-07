@@ -1,0 +1,9 @@
+../Core/Src/test.c:13:6:testDrawProcess	48	static
+../Core/Src/test.c:39:6:testShowFont	48	static
+../Core/Src/test.c:60:6:testDrawFrame	48	static
+../Core/Src/test.c:77:6:testDrawRBox	56	static
+../Core/Src/test.c:95:6:testDrawCircle	48	static
+../Core/Src/test.c:121:6:testDrawFilledEllipse	48	static
+../Core/Src/test.c:144:6:testDrawMulti	80	static
+../Core/Src/test.c:223:6:testDrawXBM	32	static
+../Core/Src/test.c:238:6:u8g2DrawTest	16	static

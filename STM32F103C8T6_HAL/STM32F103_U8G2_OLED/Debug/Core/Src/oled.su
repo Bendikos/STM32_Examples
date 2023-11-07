@@ -1,0 +1,4 @@
+../Core/Src/oled.c:4:9:u8x8_byte_hw_i2c	40	static
+../Core/Src/oled.c:56:6:delay_us	24	static
+../Core/Src/oled.c:63:9:u8x8_gpio_and_delay	32	static,ignoring_inline_asm
+../Core/Src/oled.c:104:6:u8g2Init	16	static

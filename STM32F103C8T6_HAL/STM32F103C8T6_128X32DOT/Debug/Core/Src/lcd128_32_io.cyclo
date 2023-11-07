@@ -1,0 +1,9 @@
+../Core/Src/lcd128_32_io.c:14:7:WriteByte_command	1
+../Core/Src/lcd128_32_io.c:19:6:WriteByte_dat	1
+../Core/Src/lcd128_32_io.c:24:7:Lcd_Clear	3
+../Core/Src/lcd128_32_io.c:37:7:Lcd_Init	3
+../Core/Src/lcd128_32_io.c:53:7:Lcd_Cursor	3
+../Core/Src/lcd128_32_io.c:65:7:WriteFont	2
+../Core/Src/lcd128_32_io.c:72:7:Lcd_Display	98
+../Core/Src/lcd128_32_io.c:375:7:Lcd_DisplayNum	4
+../Core/Src/lcd128_32_io.c:396:6:Lcd_DisplayPicture	3
